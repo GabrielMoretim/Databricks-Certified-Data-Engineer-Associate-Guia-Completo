@@ -8,7 +8,7 @@ Guia de estudos completo, progressivo e didático, em português, para quem quer
 
 ## 📘 Baixar o guia
 
-👉 [**Clique aqui para baixar o PDF**](./guia-databricks-data-engineer-associate.pdf)
+👉 [**Clique aqui para baixar o PDF**](Databricks_Data_Engineer_Associate.pdf)
 
 ---
 
