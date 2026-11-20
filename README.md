@@ -57,8 +57,8 @@ Versionamento com Git folders, Infraestrutura como Código com Databricks Asset 
 ## 👥 Para quem é este guia
 
 - Profissionais de dados que querem **se certificar** como Databricks Data Engineer Associate
-- Engenheiros(as) que desejam se aprofundar mais o conhecimento sobre a plataforma Databricks
-- Quem está migrando para o **Lakehouse** e querem entender a arquitetura e não só decorar comandos
+- Engenheiros(as) que desejam aprofundar o conhecimento sobre a plataforma Databricks
+- Quem está migrando para o **Lakehouse** e quer entender a arquitetura, não só decorar comandos
 
 ---
 
