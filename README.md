@@ -66,7 +66,7 @@ Versionamento com Git folders, Infraestrutura como Código com Databricks Asset 
 
 Escrito por **Gabriel Moretim Canzi**, Engenheiro de Dados.
 
-🔗 [LinkedIn](linkedin.com/in/gabriel-moretim-canzi-dados)
+🔗 [LinkedIn]([linkedin.com/in/gabriel-moretim-canzi-dados](https://www.linkedin.com/in/gabriel-moretim-canzi-dados/))
 
 ---
 
